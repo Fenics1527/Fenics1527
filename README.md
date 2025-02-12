@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing:(
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me: sent a message and wait
-- 😄 Pronouns: fun, newcomer, and normal people 
+- 😄 Pronouns: normal new people in GitHub
 - ⚡ Fun fact: I came from scratch, there I realized that I can do something
 
 <!---
