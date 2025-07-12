@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Fenics1527
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning nothing:(
+- 🌱 I know: C (not good), C# (very good), JS (normal), HTML (+- not good), Python (not good)
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me: sent a message and wait
 - 😄 Pronouns: normal new people in GitHub
-- ⚡ Fun fact: I came from Scratch. and i don't normal understand programming languages
-
-<!---
-Fenics1527/Fenics1527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I came from Scratch. and now I can programming a lot.
