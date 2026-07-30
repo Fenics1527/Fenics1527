@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Fenics1527
-- 👀 I’m interested in programming 
-- 🌱 I know: C (good), C# (very good), JS (normal), HTML (+- good), Python (not good) and ASSEMBLY (50%)
-- 💞️ I’m looking to collaborate on somebody
-- 📫 How to reach me: sent a message and wait
-- 😄 Pronouns: normal new people in GitHub
-- ⚡ Fun fact: I came from Scratch. and now I can programming a lot.
+hi!
